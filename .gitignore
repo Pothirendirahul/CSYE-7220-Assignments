@@ -1,0 +1,51 @@
+# Build results
+SongLyricsAPI/bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userprefs
+*.rsuser
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+
+# Rider IDE files
+.idea/
+
+# Mono Auto Generated Files
+*.pidb
+*.userprefs
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# NuGet Packages
+*.nupkg
+packages/
+# Uncomment if you have a packages folder with binaries
+# !packages/build/
+
+# Resharper files
+_ReSharper*/
+*.DotSettings.user
+
+# Backup files
+*~
+*.bak
+*.backup
+
+# Logs
+*.log
+
+# Web publish folder
+publish/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# dotenv environment files (if you use .env)
+.env
